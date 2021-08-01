@@ -1,5 +1,3 @@
-/* Copyright (c) 2020 CLOUDPILOTS Software & Consulting GmbH */
-
 import { FC } from 'react';
 import './app.css';
 import ReportOverview from 'pages/report-overview';
